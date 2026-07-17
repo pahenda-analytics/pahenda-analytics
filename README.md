@@ -38,11 +38,13 @@ I'm currently expanding my portfolio while helping businesses reduce manual repo
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| Project 1 | ... | ... |
-| Project 2 | ... | ... |
-| Project 3 | ... | ... |
+The projects below demonstrate my end-to-end analytics workflow—from data cleaning and validation through SQL analysis, reporting automation and business intelligence dashboards.
+
+| Project | Business Problem Solved | Technologies |
+|---------|-------------------------|--------------|
+| **[Excel Data Quality Framework](https://github.com/pahenda-analytics/excel-data-quality-framework)** | Improved data quality through automated validation, reconciliation and transformation workflows before analysis. | Excel • Power Query |
+| **[SQL Business Intelligence Platform](https://github.com/pahenda-analytics/ecommerce-sql-bi-analysis)** | Transformed transactional data into reusable reporting views and executive dashboards for business decision-making. | PostgreSQL • SQL • Power BI |
+| **[Automated Reporting Pipeline](https://github.com/pahenda-analytics/python-monthly-reporting-pipeline)** | Reduced manual reporting effort by automating data preparation, KPI generation and monthly reporting outputs. | Python • Pandas • Logging |
 
 ---
 
