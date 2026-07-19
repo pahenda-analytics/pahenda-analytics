@@ -72,15 +72,6 @@ I'm a mathematics graduate with professional experience delivering analytical so
 
 ---
 
-## 📈 Currently Learning
-
-- Advanced Python Automation
-- Power BI
-- Forecasting
-- Data Engineering concepts
-
----
-
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/peter-ahenda-bengo-371010a4/)
